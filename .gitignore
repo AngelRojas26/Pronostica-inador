@@ -1,0 +1,22 @@
+# Entorno
+.conda/
+__pycache__/
+*.pyc
+
+# Archivos temporales de sistema
+*.log
+*.sqlite3
+
+# Archivos de configuración personal
+.env
+
+# Archivos de compilación
+*.egg-info/
+build/
+dist/
+
+# Archivos de VSCode
+.vscode/
+
+# Base de datos de Django
+db.sqlite3
